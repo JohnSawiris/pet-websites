@@ -1,0 +1,32 @@
+body {
+  background-color: #483D8B;
+}
+h1 {
+  color: #fff;
+  font-style: italic;
+  text-align: center;
+  font-size: 4em;
+}
+p {
+  color: #fff;
+  font-size: 1.4em;
+}
+a {
+  color: #FAFAD2;
+  text-decoration: none;
+}
+img {
+  max-width: 260px;
+  margin-bottom: 15px;
+  border-radius: 75%;
+  box-shadow: 4px 2px 10px #e6d2f9;
+}
+ul {
+  color: #fff;
+  list-style: none;
+  font-size: 1.25em;
+}
+.wrap {
+  width: 600px;
+  margin: 0 auto;
+}
